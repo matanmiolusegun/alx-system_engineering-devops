@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir
+mkdir /root/alx-systems_engineering-devops
